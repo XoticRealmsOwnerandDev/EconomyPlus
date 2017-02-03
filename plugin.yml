@@ -1,7 +1,7 @@
 name: EconomyPlus
 main: EconomyPlus\EconomyPlus
 version: 0.1.5
-api: [2.0.0, 3.0.0-ALPHA1]
+api: [2.0.0, 3.0.0-ALPHA3]
 author: ImagicalGamer
 permissions:
  economyplus.*:
